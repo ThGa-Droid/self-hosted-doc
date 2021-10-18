@@ -8,7 +8,8 @@ On our first tutorials, you will learn how to deploy a Toucan Toco stack on a de
 - This fourth tutorial will explain you how to add a SMTP to your existent stack. 
 - Our last tutorial will explain you how to add a mongo cluster to this stack
 
-Our second part of tutorials leads you to deploy our stack on a production environment
+Our second part of tutorials leads you to deploy our stack on a production environment:
+
 - Here, you will learn what to check before going with Toucan in production
 - Here, you will learn more about alerting. 
 ===
