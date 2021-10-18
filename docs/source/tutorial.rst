@@ -1,6 +1,8 @@
 Tutorials
 ==========
 
+Tutorials take you by the hand through a series of steps to install our application on a server. Start here if you are new to Toucan Toco. Also look at first steps.
+
 On our first tutorials, you will learn how to deploy a Toucan Toco stack on a dev environment. 
 
 - Our first tutorial will lead you to deploy a Toucan stack (Toucan backend and frontend) on a dev environment with a single node mongo.
