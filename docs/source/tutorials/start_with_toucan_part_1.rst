@@ -38,7 +38,7 @@ Below is an example of a ``docker-compose.yml`` file - Downloadable `here <link>
      backend:
        image: quay.io/toucantoco/backend:latest-monthly
        environment:
-         TOUCAN_DB_ENCRYPTION_SECRET: "ChangeItForProductionContext"
+         TOUCAN_DB_ENCRYPTION_SECRET: "mySecretTopSecret3"
        depends_on:
          - mongo
          - redis
